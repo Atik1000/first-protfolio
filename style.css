@@ -1,0 +1,22 @@
+body {
+    font-family: 'Roboto Mono', monospace;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.name {
+    color: orangered;
+}
+
+.div {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.div img {
+    width: 100%;
+}
